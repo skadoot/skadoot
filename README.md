@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Tyler Lewis!
+### 👋 Hello, I'm Tyler!
 
 📍 I'm from Wales and currently based here as well.
 
