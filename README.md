@@ -1,15 +1,23 @@
-### 👋 Hello, I'm Tyler!
+# Shwmae! 👋
 
-📍 I'm from Wales and currently based here as well.
+I'm a Computer Science student at Aberystwyth University, currently in my third year of study. My passion lies at the intersection of code and cars. I'm all about software development, web design, and diving into the world of technology.
 
-🎓 I'm a third-year Computer Science student at Aberystwyth University, pursuing my Bachelor's Degree.
+## 💻 Tech Stack
 
-💻 I have a strong interest in web development and object-oriented programming. I particularly enjoy working with Java, HTML, CSS, JavaScript, and PHP.
+- 🚀 Experience with: Java, Kotlin, HTML, CSS, JavaScript, PHP
+- 🛠️ Tools of the trade: Maven, Gradle, Android Studio, IntelliJ iDEA
+- 🌐 Exploring the web: Web development and design
 
-🏆 One of my notable achievements was serving as the Quality Assurance manager for my year two group project, where we achieved an impressive mark of 76%.
+## 🚗 Car Enthusiast
 
-🔧 When I'm not coding, you'll find me diving into the world of mechanics. I have a passion for automotive engineering and enjoy working on my own car. I also love taking on various DIY projects around the house.
+In my spare time, I trade my keyboard for a wrench and delve into the world of mechanics. My trusty '90 Mazda MX5 is my canvas, and I love DIY projects that let me uncover the secrets under the hood.
 
-🌍 Fun fact: I'm fluent in both English and Welsh, and my car is 13 years older than me!
+## 🌍 Multilingual
 
-📫 Feel free to reach out to me if you have any questions, opportunities, or just want to connect!
+Fluent in English and Welsh, I'm also challenging myself to learn German. It's not just about mastering code; languages open up new horizons too.
+
+## 🌱 Always Learning
+
+I'm fueled by a great curiosity to understand how things work. Whether it's pulling apart car engines or diving into software architecture, I'm driven by the desire to unravel the inner workings of our world. Exploring the intricate details is not just a hobby; it's my way of learning, and it keeps me excited about every project I take on. Join me on this journey of discovery! 🚀
+
+Feel free to check out my projects, and let's connect! 🚀
