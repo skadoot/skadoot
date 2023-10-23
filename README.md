@@ -6,7 +6,7 @@ I'm a Computer Science student at Aberystwyth University, currently in my third 
 
 - 🚀 Experience with: Java, Kotlin, HTML, CSS, JavaScript, PHP
 - 🛠️ Tools of the trade: Maven, Gradle, Android Studio, IntelliJ iDEA
-- 🌐 Exploring the web: Web development and design
+- 🌐 Exploring the web: Web Development, Design, and User Experience
 
 ## 🚗 Car Enthusiast
 
