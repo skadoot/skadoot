@@ -1,16 +1,17 @@
 # Shwmae! 👋
 
-I'm a Computer Science student at Aberystwyth University, currently in my third year of study. My passion lies at the intersection of code and cars. I'm all about software development, web design, and diving into the world of technology.
+I'm a Computer Science student at Aberystwyth University, currently in my third year of study. My passion lies at the basis of logical systems. I'm all about software development, machine learning, and diving into the world of technology.
 
 ## 💻 Tech Stack
 
 - 🚀 Experience with: Java, Kotlin, HTML, CSS, JavaScript, PHP
-- 🛠️ Tools of the trade: Maven, Gradle, Android Studio, IntelliJ iDEA
-- 🌐 Exploring the web: Web Development, Design, and User Experience
+- 🛠️ Tools: Maven, Gradle, JetBrains Suite, Android Studio
+- 🌐 Exploring: Web Development, UI & UX Design
+- Learning: Machine Learning, AI, C++, and C#
 
 ## 🚗 Car Enthusiast
 
-In my spare time, I trade my keyboard for a wrench and delve into the world of mechanics. My trusty '90 Mazda MX5 is my canvas, and I love DIY projects that let me uncover the secrets under the hood.
+In my spare time, I trade my keyboard for a wrench and delve into the world of mechanics. My trusty '90 Mazda MX5 is my project, and I love DIY projects that let me uncover the secrets under the hood.
 
 ## 🌍 Multilingual
 
