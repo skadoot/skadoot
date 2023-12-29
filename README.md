@@ -1,30 +1,34 @@
 # Shwmae! 👋
 
-I'm a Computer Science student at Aberystwyth University, currently in my third year of study. My passion lies at the basis of logical systems. I'm all about software development, machine learning, and diving into the world of technology.
+I'm Tyler, a passionate Computer Science student at Aberystwyth University in my third year. I specialize in software development/engineering with a keen interest in cryptography, secure systems, and cyber security.
+
+## 📝 About Me
+
+🎓 Education: Currently pursuing a degree in Computer Science at Aberystwyth University.
+💡 Interests: I love delving into various aspects of technology, including machine learning, AI, and cybersecurity. My current focus includes exploring the intersection of these fields.
+
+## 🧠 Interests
+
+I love clasical music and soundtracks, and I'm a big fan of composers such as Hans Zimmer, Steve Jablonsky, Max Richter, and more. I'm also into cars and engines, I currently own a 1990 Mazda MX5 that I love to work on in my spare time, and I've taught myself a lot about maintaining cars since I've owned it. I enjoying playing video games occasionaly, and lately I've been enjoying games like Fallout New Vegas, Minecraft, and Hearts of Iron 4. I particularly enjoy creative hands on things where I can learn about how something works, fix things, or be creative.
 
 ## 💻 Tech Stack
 
-- 🚀 Experience with: Java, Kotlin, HTML, CSS, JavaScript, PHP
-- 🛠️ Tools: Maven, Gradle, JetBrains Suite, Android Studio
-- 🌐 Exploring: Web Development, UI & UX Design
-- Learning: Machine Learning, AI, C++, and C#
+- 🚀 Experience with: Java, Kotlin, Android, HTML, CSS, JavaScript, PHP
+- 🛠️ Tools I use: Maven, Gradle, JetBrains Suite, Android Studio
+- 🌐 Currently exploring: Resilience techniques, Secure systems, Cryptography, Machine Learning, AI, Android Development, C++, and C#
 
-## 🚗 Car Enthusiast
+## 🚧 Current Projects
 
-In my spare time, I trade my keyboard for a wrench and delve into the world of mechanics. My trusty '90 Mazda MX5 is my project, and I love DIY projects that let me uncover the secrets under the hood.
+- [ChatMachine](https://skadoot.github.io/): A simple application aimed at exploring various techniques involved in the secure transmission of data over insecure networks. This project involves topics such as networking techniques, authentication and validation, and public key cryptography.
+- [StabilityMachine](https://skadoot.github.io/): A very early stage project that aims to build a small four-wheeled robot with two motors rotating on both the horizontal and vertical axes, capable of stabilising a specific point in space, or focusing on a location; think stabilised camera rig, or tank turret.
 
-## 🌍 Multilingual
+## Career Aspirations
 
-Fluent in English and Welsh, I'm also challenging myself to learn German. It's not just about mastering code; languages open up new horizons too.
+I am deeply fascinated by the defense industry and aspire to contribute to the development of modern defense systems. I closely follow organisations like Lockheed Martin, Raytheon, BAE Systems, Northrop Grumman, and more. My goal is to develop and leverage my skills in software development and cybersecurity to make a meaningful impact in this exciting and dynamic field.
 
-## 🎵 Music Enthusiast
+## 🌐 Get in Touch
 
-I'm not just passionate about code and cars; I'm also a huge music enthusiast. I find inspiration in the works of composers like Hans Zimmer, Hildur Guonadottir, Volker Bertelmann, Ludovico Einaudi, and Max Richter. Their music has a unique way of complementing my coding and automotive adventures, setting the perfect backdrop for my creative endeavors.
+- 📧 Email: [tylerjlew@gmail.com](mailto::tylerjlew@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/tylerjlew](https://linkedin.com/in/tylerjlew/)
 
-Whether I'm debugging a complex piece of code or fine-tuning my car's performance, their compositions provide the soundtrack to my journey. I believe that the harmony in technology, mechanics, and music is what fuels my passion for exploration.
-
-## 🌱 Always Learning
-
-I'm fueled by a great curiosity to understand how things work. Whether it's pulling apart car engines or diving into software architecture, I'm driven by the desire to unravel the inner workings of our world. Exploring the intricate details is not just a hobby; it's my way of learning, and it keeps me excited about every project I take on. Join me on this journey of discovery! 🚀
-
-Feel free to check out my projects, and let's connect! 🚀
+Feel free to reach out if you share similar interests, want to collaborate, or just chat about technology!
