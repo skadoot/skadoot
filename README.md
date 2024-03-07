@@ -5,6 +5,7 @@ I'm Tyler, a passionate Computer Science student at Aberystwyth University in my
 ## 📝 About Me
 
 🎓 Education: Currently pursuing a degree in Computer Science at Aberystwyth University.
+
 💡 Interests: I love delving into various aspects of technology, including machine learning, AI, and cybersecurity. My current focus includes exploring the intersection of these fields.
 
 ## 🧠 Interests
